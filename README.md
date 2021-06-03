@@ -16,17 +16,17 @@ With Colly you can easily extract structured data from websites, which can be us
 
 ## Features
 
--   Clean API
--   Fast (>1k request/sec on a single core)
--   Manages request delays and maximum concurrency per domain
--   Automatic cookie and session handling
--   Sync/async/parallel scraping
--   Caching
--   Automatic encoding of non-unicode responses
--   Robots.txt support
--   Distributed scraping
--   Configuration via environment variables
--   Extensions
+- Clean API
+- Fast (>1k request/sec on a single core)
+- Manages request delays and maximum concurrency per domain
+- Automatic cookie and session handling
+- Sync/async/parallel scraping
+- Caching
+- Automatic encoding of non-unicode responses
+- Robots.txt support
+- Distributed scraping
+- Configuration via environment variables
+- Extensions
 
 ## Example
 
@@ -71,22 +71,22 @@ Bugs or suggestions? Visit the [issue tracker](https://github.com/gocolly/colly/
 
 Below is a list of public, open source projects that use Colly:
 
--   [greenpeace/check-my-pages](https://github.com/greenpeace/check-my-pages) Scraping script to test the Spanish Greenpeace web archive.
--   [altsab/gowap](https://github.com/altsab/gowap) Wappalyzer implementation in Go.
--   [jesuiscamille/goquotes](https://github.com/jesuiscamille/goquotes) A quotes scrapper, making your day a little better!
--   [jivesearch/jivesearch](https://github.com/jivesearch/jivesearch) A search engine that doesn't track you.
--   [Leagify/colly-draft-prospects](https://github.com/Leagify/colly-draft-prospects) A scraper for future NFL Draft prospects.
--   [lucasepe/go-ps4](https://github.com/lucasepe/go-ps4) Search playstation store for your favorite PS4 games using the command line.
--   [yringler/inside-chassidus-scraper](https://github.com/yringler/inside-chassidus-scraper) Scrapes Rabbi Paltiel's web site for lesson metadata.
--   [gamedb/gamedb](https://github.com/gamedb/gamedb) A database of Steam games.
--   [lawzava/scrape](https://github.com/lawzava/scrape) CLI for email scraping from any website.
--   [eureka101v/WeiboSpiderGo](https://github.com/eureka101v/WeiboSpiderGo) A sina weibo(chinese twitter) scrapper
--   [Go-phie/gophie](https://github.com/Go-phie/gophie) Search, Download and Stream movies from your terminal
--   [imthaghost/goclone](https://github.com/imthaghost/goclone) Clone websites to your computer within seconds.
--   [superiss/spidy](https://github.com/superiss/spidy) Crawl the web and collect expired domains.
--   [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) Optimize your Docker containers to make them smaller and better.
--   [seversky/gachifinder](https://github.com/seversky/gachifinder) an agent for asynchronous scraping, parsing and writing to some storages(elasticsearch for now)
--   [eval-exec/goodreads](https://github.com/eval-exec/goodreads) crawl all tags and all pages of quotes from goodreads.
+- [greenpeace/check-my-pages](https://github.com/greenpeace/check-my-pages) Scraping script to test the Spanish Greenpeace web archive.
+- [altsab/gowap](https://github.com/altsab/gowap) Wappalyzer implementation in Go.
+- [jesuiscamille/goquotes](https://github.com/jesuiscamille/goquotes) A quotes scrapper, making your day a little better!
+- [jivesearch/jivesearch](https://github.com/jivesearch/jivesearch) A search engine that doesn't track you.
+- [Leagify/colly-draft-prospects](https://github.com/Leagify/colly-draft-prospects) A scraper for future NFL Draft prospects.
+- [lucasepe/go-ps4](https://github.com/lucasepe/go-ps4) Search playstation store for your favorite PS4 games using the command line.
+- [yringler/inside-chassidus-scraper](https://github.com/yringler/inside-chassidus-scraper) Scrapes Rabbi Paltiel's web site for lesson metadata.
+- [gamedb/gamedb](https://github.com/gamedb/gamedb) A database of Steam games.
+- [lawzava/scrape](https://github.com/lawzava/scrape) CLI for email scraping from any website.
+- [eureka101v/WeiboSpiderGo](https://github.com/eureka101v/WeiboSpiderGo) A sina weibo(chinese twitter) scrapper
+- [Go-phie/gophie](https://github.com/Go-phie/gophie) Search, Download and Stream movies from your terminal
+- [imthaghost/goclone](https://github.com/imthaghost/goclone) Clone websites to your computer within seconds.
+- [superiss/spidy](https://github.com/superiss/spidy) Crawl the web and collect expired domains.
+- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) Optimize your Docker containers to make them smaller and better.
+- [seversky/gachifinder](https://github.com/seversky/gachifinder) an agent for asynchronous scraping, parsing and writing to some storages(elasticsearch for now)
+- [eval-exec/goodreads](https://github.com/eval-exec/goodreads) crawl all tags and all pages of quotes from goodreads.
 
 If you are using Colly in a project please send a pull request to add it to the list.
 

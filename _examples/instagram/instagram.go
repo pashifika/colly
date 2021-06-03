@@ -10,7 +10,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/gocolly/colly/v2"
+	"colly"
 )
 
 // "id": user id, "after": end cursor
